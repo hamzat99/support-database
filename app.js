@@ -1,3 +1,5 @@
+@azure/cosmos
+
 // @ts-check
 //  <ImportConfiguration>
 const CosmosClient = require("@azure/cosmos").CosmosClient;
